@@ -1,2 +1,0 @@
-# hierarchical_deep_temporal_models_for_group_activity_recognition
-hierarchical deep temporal models for group activity recognition
